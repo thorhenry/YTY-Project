@@ -25,3 +25,6 @@ backend/clothing.db
 # local sqlite
 *.db
 backend/*.db
+
+*.db
+__pycache__/

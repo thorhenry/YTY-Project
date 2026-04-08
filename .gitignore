@@ -21,3 +21,7 @@ coverage/
 .idea/
 .vscode/
 backend/clothing.db
+
+# local sqlite
+*.db
+backend/*.db
